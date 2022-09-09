@@ -8,9 +8,9 @@ import org.springframework.web.bind.annotation.RestController;
 
 public class ControladorRest {
 
-    @GetMapping("/")
-    public String saludar(){
-    return "mama";
+    //@GetMapping("/")
+    //public String saludar(){
+    //return "mama";
 
-}
+//}
 }
